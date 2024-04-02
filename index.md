@@ -6,7 +6,7 @@ layout: homepage
 
 Welcome to my website. My name is <strong>Yanbing Dai</strong> (<strong>代晏冰</strong>).
 
-I'm currently a second-year Master's student in Power Engineering at [Xi'an Jiaotong University](http://en.xjtu.edu.cn/) (<b>XJTU</b>), advised by Assoc. Prof. [Xiaoqu Han](https://www.researchgate.net/profile/Xiaoqu-Han). Prior to this, I obtained my B.E. in Power Engineering in 2021.
+I'm currently a second-year Master's student in Power Engineering at [Xi'an Jiaotong University](http://en.xjtu.edu.cn/) (<b>XJTU</b>), advised by Assoc. Prof. [Xiaoqu Han](https://www.researchgate.net/profile/Xiaoqu-Han) (韩小渠). Prior to this, I obtained my B.E. in Power Engineering in 2021.
 
 My focus is on XXXXX. The recent advancements in XXXX have strengthened my belief in its potential applications in engineering. I’m excited to be part of this rapidly evolving field.
 
