@@ -2,9 +2,9 @@ main:
 
   - type: Journal Article
     title: 'Investigation on recirculated regenerative solid desiccant-assisted dehumidification system: Impact of system configurations and desiccant materials'
-    authors: Minqi Su, Xiaoqu Han, <em style="font-weight: bold;">Yanbing Dai</em>
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
+    authors: Minqi Su, Xiaoqu Han, <strong>Yanbing Dai</strong>, Jinshi Wang, Jiping Liu, Junjie Yan
+    #conference_short: MICCAI
+    conference: Energy, 2023.
     pdf: https://arxiv.org/pdf/2306.00988.pdf
     code: https://github.com/MrGiovanni/ContinualLearning
     bibtex: https://bib.yliu.me/MICCAI23.txt
