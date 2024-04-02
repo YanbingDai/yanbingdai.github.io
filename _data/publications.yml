@@ -2,8 +2,8 @@ main:
 
   - type: Journal Article
     title: Investigation on recirculated regenerative solid desiccant-assisted dehumidification system: Impact of system configurations and desiccant materials
-    authors: Minqi Su, Xiaoqu Han, <em style="font-weight: bold;">Yanbing Dai</em>, Jinshi Wang, Jiping Liu, Junjie
-    conference_short: EYG
+    authors: Minqi Su, Xiaoqu Han, <strong>Yanbing Dai</strong>, Jinshi Wang, Jiping Liu, Junjie
+    #conference_short: EYG
     conference: Energy, 2023.
     pdf: https://arxiv.org/pdf/2306.00988.pdf
     code: https://github.com/MrGiovanni/ContinualLearning
