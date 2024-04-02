@@ -1,0 +1,16 @@
+/* 默认为白天模式，边框为黑色 */
+#certificate {
+  padding: 3px; /* 文字与边框间距 */
+  border: 1px solid black; /* 黑色边框 */
+  text-decoration: none; /* 移除下划线 */
+  color: black; /* 文字颜色为黑色 */
+  font-size: 12px; /* 设置字号为12px */
+}
+
+/* 检测暗色模式 */
+@media (prefers-color-scheme: dark) {
+  #certificate {
+    border-color: white; /* 在暗色模式下使用白色边框 */
+    color: white; /* 在暗色模式下文字颜色为白色 */
+  }
+}
