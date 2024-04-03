@@ -50,3 +50,15 @@ main:
     #bibtex: 
     image: ./assets/img/teaser_example.png
     notes: Oral Presentation
+
+  - type: Conference Paper
+    title: 'Investigation on recirculated regenerative solid desiccant-assisted dehumidification system: Impact of system configurations and desiccant materials'
+    authors: Minqi Su, Xiaoqu Han, <strong>Yanbing Dai</strong>, Jinshi Wang, Jiping Liu, Junjie Yan
+    conference_short: CEBE 2023
+    conference: 3rd International Conference for Global Chinese Academia on Energy and Built Environment, 2023.
+    #work_link: 
+    #pdf: 
+    #code: 
+    #bibtex: 
+    image: ./assets/img/teaser_example_2.png
+    notes: Oral Presentation
