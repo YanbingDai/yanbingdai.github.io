@@ -3,7 +3,7 @@ main:
   - type: Journal Article
     title: 'Investigation on recirculated regenerative solid desiccant-assisted dehumidification system: Impact of system configurations and desiccant materials'
     authors: Minqi Su, Xiaoqu Han, <strong>Yanbing Dai</strong>, Jinshi Wang, Jiping Liu, Junjie Yan
-    #conference_short: MICCAI
+    conference_short: Energy
     conference: Energy, 2023.
     work_link: https://doi.org/10.1016/j.energy.2023.129629
     #pdf: https://arxiv.org/pdf/2306.00988.pdf
@@ -12,13 +12,15 @@ main:
     image: ./assets/img/teaser_example_2.png
     notes: IF=9
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
+  - type: Journal Article
+    title: 'Waste heat utilization from boiler exhaust gases for zero liquid discharge of desulphurization wastewater in coal-fired power plants: Thermodynamic and economic analysis'
+    authors: Xiaoqu Han, Tianrun Yuan, Dan Zhang, <strong>Yanbing Dai</strong>, Jiping Liu, Junjie Yan
+    conference_short: J Clean Prod
+    conference: Journal of Cleaner Production, 2020.
+    work_link: https://doi.org/10.1016/j.jclepro.2021.127328
+    #pdf: https://arxiv.org/pdf/2002.10211.pdf
+    #code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    #page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    notes: IF=11.1
     image: ./assets/img/teaser_example.png
