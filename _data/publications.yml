@@ -36,7 +36,7 @@ main:
     #page: 
     #bibtex: 
     image: ./assets/img/teaser_example.png
-    notes: Poster Presentation
+    notes: Poster Presentation, ID: CEBE-A-0357
     
   - type: Conference Paper
     title: 'Thermodynamic and techno-economic analysis of solar-steam hybrid driven flue gas desulfurization wastewater zero liquid discharge system'
@@ -49,7 +49,7 @@ main:
     #page: 
     #bibtex: 
     image: ./assets/img/teaser_example.png
-    notes: Oral Presentation
+    notes: Oral Presentation, ID: 248
 
   - type: Conference Paper
     title: 'Investigation on recirculated regenerative solid desiccant-assisted dehumidification system: Impact of system configurations and desiccant materials'
@@ -61,4 +61,16 @@ main:
     #code: 
     #bibtex: 
     image: ./assets/img/teaser_example_2.png
-    notes: Oral Presentation
+    notes: Oral Presentation, ID: CEBE-G-0318
+
+  - type: Conference Paper (in Chinese)
+    title: 'Comparative Analysis and Optimization Design of Open Brayton Cycle Configurations (开式布雷顿循环构型对比及优化设计)'
+    authors: Hexing Wang, Yiran Qian, <strong>Yanbing Dai</strong>, Xiaoqu Han, Weixiong Chen, Junjie Yan
+    #conference_short: 
+    conference: The Engineering Thermodynamics and Energy Utilization Branch of the Engineering Thermophysics Society, 2023. (2023年中国工程热物理学会工程热力学与能源利用学术会议)
+    #work_link: 
+    #pdf: 
+    #code: 
+    #bibtex: 
+    image: ./assets/img/teaser_example_2.png
+    notes: Outstanding Paper Award, Oral Presentation, ID: 231289
