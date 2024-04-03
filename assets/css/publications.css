@@ -80,3 +80,19 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 .publications ol.bibliography li div.abstract.hidden.open { border-color: var(--global-text-color); }
 
 .publications ol.bibliography li .teaser { border-radius: 8px; box-shadow: 3px 3px 6px #888; height: 123px; width: 270px; margin-top: 5px; margin-left: 5px; margin-bottom: 5px; object-fit: cover; }
+
+/* 其他样式 */
+
+/* 在日间模式下的.title-no-link样式 */
+.title-no-link {
+  color: #3399cc; /* 日间模式下的颜色 */
+}
+
+/* 在您的CSS文件末尾，使用已有的@media规则为深色模式定义样式 */
+@media (prefers-color-scheme: dark) {
+  /* 其他深色模式样式 */
+
+  .title-no-link {
+    color: #3eb7f0; /* 深色模式下的颜色 */
+  }
+}
