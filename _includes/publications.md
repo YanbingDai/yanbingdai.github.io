@@ -22,7 +22,7 @@
         {% if link.work_link %}
         <a href="{{ link.work_link }}" target="_blank">{{ link.title }}</a>
         {% else %}
-        {{ link.title }}
+        <span style="color: #3eb7f0;">{{ link.title }}</span>
         {% endif %}
       </div>
       <div class="author">{{ link.authors }}</div>
