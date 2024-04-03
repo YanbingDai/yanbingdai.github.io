@@ -17,7 +17,7 @@
     {% endif %}
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <abbr class="badge">{{ link.type }}</abbr>
+      <div class="block-badge">{{ link.type }}</div>
       <div class="title"><a href="{{ link.work_link }}" target="_blank">{{ link.title }}</a></div>
       <div class="author">{{ link.authors }}</div>
       <div class="periodical"><em>{{ link.conference }}</em>
