@@ -22,5 +22,18 @@ main:
     #code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     #page: https://class-il.mpi-inf.mpg.de/mnemonics/
     #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: IF=11.1
     image: ./assets/img/teaser_example.png
+    notes: IF=11.1
+
+  - type: Conference Paper
+    title: 'Thermodynamic analysis of a novel dual-stage intercooled and recuperative gas turbine-transcritical organic Rankine cycle power generation system'
+    authors: <strong>Yanbing Dai</strong>, Xiaoqu Han, Xuanhua Guo, Konstantinos Braimakis, Sotirios Karellas, Junjie Yan
+    conference_short: CEBE 2023
+    conference: 3rd International Conference for Global Chinese Academia on Energy and Built Environment, 2023.
+    #work_link: https://doi.org/10.1016/j.jclepro.2021.127328
+    #pdf: https://arxiv.org/pdf/2002.10211.pdf
+    #code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    #page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    image: ./assets/img/teaser_example.png
+    notes: Poster Presentation
