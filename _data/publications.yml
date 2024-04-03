@@ -6,9 +6,9 @@ main:
     conference_short: Energy
     conference: Energy, 2023.
     work_link: https://doi.org/10.1016/j.energy.2023.129629
-    #pdf: https://arxiv.org/pdf/2306.00988.pdf
-    #code: https://github.com/MrGiovanni/ContinualLearning
-    #bibtex: https://bib.yliu.me/MICCAI23.txt
+    #pdf: 
+    #code: 
+    #bibtex: 
     image: ./assets/img/teaser_example_2.png
     notes: IF=9
 
@@ -16,12 +16,12 @@ main:
     title: 'Waste heat utilization from boiler exhaust gases for zero liquid discharge of desulphurization wastewater in coal-fired power plants: Thermodynamic and economic analysis'
     authors: Xiaoqu Han, Tianrun Yuan, Dan Zhang, <strong>Yanbing Dai</strong>, Jiping Liu, Junjie Yan
     conference_short: J Clean Prod
-    conference: Journal of Cleaner Production, 2020.
+    conference: Journal of Cleaner Production, 2021.
     work_link: https://doi.org/10.1016/j.jclepro.2021.127328
-    #pdf: https://arxiv.org/pdf/2002.10211.pdf
-    #code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    #page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    #pdf: 
+    #code: 
+    #page: 
+    #bibtex: 
     image: ./assets/img/teaser_example.png
     notes: IF=11.1
 
@@ -30,10 +30,23 @@ main:
     authors: <strong>Yanbing Dai</strong>, Xiaoqu Han, Xuanhua Guo, Konstantinos Braimakis, Sotirios Karellas, Junjie Yan
     conference_short: CEBE 2023
     conference: 3rd International Conference for Global Chinese Academia on Energy and Built Environment, 2023.
-    #work_link: https://doi.org/10.1016/j.jclepro.2021.127328
-    #pdf: https://arxiv.org/pdf/2002.10211.pdf
-    #code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    #page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    #work_link: 
+    #pdf: 
+    #code: 
+    #page: 
+    #bibtex: 
     image: ./assets/img/teaser_example.png
     notes: Poster Presentation
+    
+  - type: Conference Paper
+    title: 'Thermodynamic and techno-economic analysis of solar-steam hybrid driven flue gas desulfurization wastewater zero liquid discharge system'
+    authors: Xiaoqu Han, <strong>Yanbing Dai</strong>, Tianrun Yuan, Dan Zhang, Jiping Liu, Junjie Yan
+    conference_short: ICAE 2020
+    conference: 12th International Conference on Applied Energy, 2020.
+    work_link: https://doi.org/10.46855/energy-proceedings-7223
+    #pdf: 
+    #code: 
+    #page: 
+    #bibtex: 
+    image: ./assets/img/teaser_example.png
+    notes: Oral Presentation
