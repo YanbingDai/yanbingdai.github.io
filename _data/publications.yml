@@ -10,7 +10,7 @@ main:
     #code: 
     #bibtex: 
     image: ./assets/img/teaser_example_2.png
-    notes: IF=9
+    notes: 'IF=9'
 
   - type: Journal Article
     title: 'Waste heat utilization from boiler exhaust gases for zero liquid discharge of desulphurization wastewater in coal-fired power plants: Thermodynamic and economic analysis'
@@ -23,7 +23,7 @@ main:
     #page: 
     #bibtex: 
     image: ./assets/img/teaser_example.png
-    notes: IF=11.1
+    notes: 'IF=11.1'
 
   - type: Conference Paper
     title: 'Thermodynamic analysis of a novel dual-stage intercooled and recuperative gas turbine-transcritical organic Rankine cycle power generation system'
@@ -36,7 +36,7 @@ main:
     #page: 
     #bibtex: 
     image: ./assets/img/teaser_example.png
-    notes: Poster Presentation, ID: CEBE-A-0357
+    notes: 'Poster Presentation, ID: CEBE-A-0357'
     
   - type: Conference Paper
     title: 'Thermodynamic and techno-economic analysis of solar-steam hybrid driven flue gas desulfurization wastewater zero liquid discharge system'
@@ -49,7 +49,7 @@ main:
     #page: 
     #bibtex: 
     image: ./assets/img/teaser_example.png
-    notes: Oral Presentation, ID: 248
+    notes: 'Oral Presentation, ID: 248'
 
   - type: Conference Paper
     title: 'Investigation on recirculated regenerative solid desiccant-assisted dehumidification system: Impact of system configurations and desiccant materials'
@@ -61,7 +61,7 @@ main:
     #code: 
     #bibtex: 
     image: ./assets/img/teaser_example_2.png
-    notes: Oral Presentation, ID: CEBE-G-0318
+    notes: 'Oral Presentation, ID: CEBE-G-0318'
 
   - type: Conference Paper (in Chinese)
     title: 'Comparative analysis and optimization design of open brayton cycle configurations (开式布雷顿循环构型对比及优化设计)'
@@ -73,4 +73,4 @@ main:
     #code: 
     #bibtex: 
     image: ./assets/img/teaser_example_2.png
-    notes: Outstanding Paper Award, Oral Presentation, ID: 231289
+    notes: 'Outstanding Paper Award, Oral Presentation, ID: 231289'
