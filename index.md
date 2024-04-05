@@ -12,8 +12,9 @@ My focus is on XXXXX. The recent advancements in XXXX have strengthened my belie
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Gas Turbine Power System**
+- **Desiccant Wheel Dehumidification System**
+- **Zero Liquid Discharge**
 
 ## News
 
