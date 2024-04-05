@@ -12,6 +12,7 @@ My focus is on XXXXX. The recent advancements in XXXX have strengthened my belie
 
 ## Research Interests
 
+- **Brayton Cycle**
 - **Gas Turbine Power System**
 - **Desiccant Wheel Dehumidification System**
 - **Zero Liquid Discharge**
