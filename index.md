@@ -20,8 +20,12 @@ My focus is on XXXXX. The recent advancements in XXXX have strengthened my belie
 
 - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
 - **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Nov. 2023]** Our journal article about recirculated regenerative solid desiccant-assisted dehumidification system is accepted to Energy.
+- **[Sept. 2023]** Our conference paper about open Brayton cycle is accepted to ETEUB 2024.
+- **[Jun. 2023]** Our conference paper about gas turbine-transcritical organic Rankine cycle power generation system is accepted to CEBE 2023.
+- **[May. 2023]** Our conference paper about recirculated regenerative solid desiccant-assisted dehumidification system is accepted to CEBE 2023.
+- **[Apr. 2021]** Our journal article about zero liquid discharge of desulphurization wastewater is accepted to J Clean Prod.
+- **[Nov. 2020]** Our conference paper about zero liquid discharge of desulphurization wastewater is accepted to ICAE 2020.
 
 {% include_relative _includes/publications.md %}
 
