@@ -66,7 +66,7 @@ main:
   - type: Conference Paper (in Chinese)
     title: 'Comparative analysis and optimization design of open brayton cycle configurations (开式布雷顿循环构型对比及优化设计)'
     authors: Hexing Wang, Yiran Qian, <strong>Yanbing Dai</strong>, Xiaoqu Han, Weixiong Chen, Junjie Yan
-    #conference_short: 
+    conference_short: ETEUB 2023
     conference: The Engineering Thermodynamics and Energy Utilization Branch of the Engineering Thermophysics Society, 2023.
     #work_link: 
     #pdf: 
