@@ -77,7 +77,7 @@ main:
 
   - type: Software Copyright (in Chinese)
     title: 'Closed air Brayton cycle configuration optimization software considering diversified application scenarios (考虑应用场景多元化的闭式空气布雷顿循环构型优化软件)'
-    authors: Xiaoqu Han, Hexing Wang, <strong>Yanbing Dai</strong>; Yiran Qian; Weixiong Chen; Junjie Yan
+    authors: Xiaoqu Han, Hexing Wang, <strong>Yanbing Dai</strong>, Yiran Qian, Weixiong Chen, Junjie Yan
     conference_short: CCPC 2024
     conference: China Copyright Protection Center. 2024.
     #work_link: 
