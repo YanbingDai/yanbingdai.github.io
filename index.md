@@ -12,6 +12,8 @@ My research focuses on developing highly-efficient energy conversion systems and
 
 ## Research Interests
 
+- **Thermodynamic Analysis**
+- **Waste Heat Recovery**
 - **Brayton Cycle**
 - **Gas Turbine Power System**
 - **Desiccant Wheel Dehumidification System**
