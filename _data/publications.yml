@@ -37,6 +37,18 @@ main:
     image: ./assets/img/jclp2021.png
     notes: '2021 IF=11.072'
 
+  - type: Journal Article (in Chinese)
+    title: 'Comparative thermodynamic analysis and optimization design of open brayton cycle configurations (开式布雷顿循环构型对比及优化设计)'
+    authors: Hexing Wang, Yiran Qian, <strong>Yanbing Dai</strong>, Xiaoqu Han, Weixiong Chen, Junjie Yan
+    conference_short: J Eng Thermophys
+    conference: Journal of Engineering Thermophysics, 2024.
+    #work_link: 
+    #pdf: 
+    #code: 
+    #bibtex: 
+    image: ./assets/img/JET2024.png
+    #notes: ''
+    
   - type: Conference Paper
     title: 'Thermodynamic analysis of a novel dual-stage intercooled and recuperative gas turbine-transcritical organic Rankine cycle power generation system'
     authors: <strong>Yanbing Dai</strong>, Xiaoqu Han, Xuanhua Guo, Konstantinos Braimakis, Sotirios Karellas, Junjie Yan
@@ -76,7 +88,7 @@ main:
     notes: 'Oral Presentation, ID: CEBE-G-0318'
 
   - type: Conference Paper (in Chinese)
-    title: 'Comparative analysis and optimization design of open brayton cycle configurations (开式布雷顿循环构型对比及优化设计)'
+    title: 'Comparative thermodynamic analysis and optimization design of open brayton cycle configurations (开式布雷顿循环构型对比及优化设计)'
     authors: Hexing Wang, Yiran Qian, <strong>Yanbing Dai</strong>, Xiaoqu Han, Weixiong Chen, Junjie Yan
     conference_short: ETEUB 2023
     conference: The Engineering Thermodynamics and Energy Utilization Branch of the Engineering Thermophysics Society, 2023.
