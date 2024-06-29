@@ -46,8 +46,8 @@ main:
     #pdf: 
     #code: 
     #bibtex: 
-    image: ./assets/img/JET2024.png
-    #notes: ''
+    image: ./assets/img/anual2023.png
+    #notes:
     
   - type: Conference Paper
     title: 'Thermodynamic analysis of a novel dual-stage intercooled and recuperative gas turbine-transcritical organic Rankine cycle power generation system'
