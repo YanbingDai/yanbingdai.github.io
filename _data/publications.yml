@@ -1,6 +1,18 @@
 main:
 
   - type: Journal Article
+    title: 'A novel dual-stage intercooled and recuperative gas turbine system integrated with transcritical organic Rankine cycle: System modeling, energy and exergy analyses'
+    authors: Xiaoqu Han, <strong>Yanbing Dai</strong>, Xuanhua Guo, Konstantinos Braimakis, Sotirios Karellas, Junjie Yan
+    conference_short: Energy
+    conference: Energy, 2024.
+    work_link: https://doi.org/10.1016/j.energy.2024.132252
+    #pdf: 
+    #code: 
+    #bibtex: 
+    image: ./assets/img/energy2024.png
+    notes: '2023 IF=9'
+    
+  - type: Journal Article
     title: 'Investigation on recirculated regenerative solid desiccant-assisted dehumidification system: Impact of system configurations and desiccant materials'
     authors: Minqi Su, Xiaoqu Han, <strong>Yanbing Dai</strong>, Jinshi Wang, Jiping Liu, Junjie Yan
     conference_short: Energy
