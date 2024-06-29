@@ -22,7 +22,7 @@ main:
     #code: 
     #bibtex: 
     image: ./assets/img/energy2023.png
-    notes: 'IF=9'
+    notes: '2023 IF=9'
 
   - type: Journal Article
     title: 'Waste heat utilization from boiler exhaust gases for zero liquid discharge of desulphurization wastewater in coal-fired power plants: Thermodynamic and economic analysis'
@@ -35,7 +35,7 @@ main:
     #page: 
     #bibtex: 
     image: ./assets/img/jclp2021.png
-    notes: 'IF=11.1'
+    notes: '2021 IF=11.072'
 
   - type: Conference Paper
     title: 'Thermodynamic analysis of a novel dual-stage intercooled and recuperative gas turbine-transcritical organic Rankine cycle power generation system'
