@@ -46,7 +46,7 @@ main:
     #pdf: 
     #code: 
     #bibtex: 
-    image: ./assets/img/anual2023.png
+    image: ./assets/img/JET2024.png
     #notes:
     
   - type: Conference Paper
@@ -75,6 +75,19 @@ main:
     image: ./assets/img/icae2020.png
     notes: 'Oral Presentation, ID: 248'
 
+  - type: Conference Paper
+    title: 'Process modeling and economic viability analysis of a power-to-H2-to-power system: Case study in China'
+    authors: Yanxin Li, <strong>Yanbing Dai</strong>, Xiaoqu Han, Xuanhua Guo, Sotirios Karellas, Junjie Yan
+    conference_short: ECOS 2024
+    conference: 37th International Conference on Efficiency, Cost, Optimization, Simulation and Environmental Impact of Energy Systems, 2024.
+    #work_link:
+    #pdf: 
+    #code: 
+    #page: 
+    #bibtex: 
+    image: ./assets/img/ECOS2024.png
+    notes: 'Oral Presentation, ID: 183'
+    
   - type: Conference Paper
     title: 'Investigation on recirculated regenerative solid desiccant-assisted dehumidification system: Impact of system configurations and desiccant materials'
     authors: Minqi Su, Xiaoqu Han, <strong>Yanbing Dai</strong>, Jinshi Wang, Jiping Liu, Junjie Yan
