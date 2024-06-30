@@ -48,6 +48,19 @@ main:
     #bibtex: 
     image: ./assets/img/JET2024.png
     #notes:
+
+  - type: Conference Paper
+    title: 'Off-design characteristics of an intercooled and recuperative gas turbine integrated with transcritical organic Rankine cycle'
+    authors: <strong>Yanbing Dai</strong>, Xiaoqu Han, Xuanhua Guo, Junjie Yan
+    conference_short: ICAE 2024
+    conference: 16th International Conference on Applied Energy, 2024.
+    #work_link: 
+    #pdf: 
+    #code: 
+    #page: 
+    #bibtex: 
+    #image: ./assets/img/ICAE2024.png
+    notes: 'Oral Presentation, ID: 139'
     
   - type: Conference Paper
     title: 'Thermodynamic analysis of a novel dual-stage intercooled and recuperative gas turbine-transcritical organic Rankine cycle power generation system'
