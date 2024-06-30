@@ -59,7 +59,7 @@ main:
     #code: 
     #page: 
     #bibtex: 
-    #image: ./assets/img/ICAE2024.png
+    image: ./assets/img/ICAE2024.png
     notes: 'Oral Presentation, ID: 139'
     
   - type: Conference Paper
