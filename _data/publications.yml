@@ -89,7 +89,7 @@ main:
     notes: 'Oral Presentation, ID: 248'
 
   - type: Conference Paper
-    title: 'Process modeling and economic viability analysis of a power-to-H2-to-power system: Case study in China'
+    title: 'Process modeling and economic viability analysis of a power-to-H₂-to-power system: Case study in China'
     authors: Yanxin Li, <strong>Yanbing Dai</strong>, Xiaoqu Han, Xuanhua Guo, Sotirios Karellas, Junjie Yan
     conference_short: ECOS 2024
     conference: 37th International Conference on Efficiency, Cost, Optimization, Simulation and Environmental Impact of Energy Systems, 2024.
