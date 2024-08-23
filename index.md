@@ -22,7 +22,7 @@ My research focuses on developing highly-efficient energy conversion systems and
 ## News
 
 - **[Jun. 2024]** Our journal article about system modeling, energy and exergy analyses of a gas turbine system integrated with organic Rankine cycle is accepted to Energy.
-- **[Jun. 2024]** Our conference paper about off-design characteristics of a gas turbine system integrated with organic Rankine cycle is accepted to ICAE 2024.
+- **[Jun. 2024]** Our conference paper about part-load performance analysis of a gas turbine system integrated with organic Rankine cycle is accepted to ICAE 2024.
 - **[May. 2024]** Our conference paper about process modeling and economic viability analysis of a power-to-H2-to-power system is accepted to ECOS 2024.
 - **[Mar. 2024]** Our invention patent about closed air Brayton cycle is granted to IPPH (in Chinese).
 - **[Jan. 2024]** Our software copyright about closed air Brayton cycle is registrated to CPCC (in Chinese).
