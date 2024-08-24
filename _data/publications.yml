@@ -146,7 +146,7 @@ main:
     #pdf: 
     #code: 
     #bibtex: 
-    image: ./assets/img/patent2024.png
+    image: ./assets/img/patent2024_1.png
     notes: 'ID: ZL202310880459.4'
     
   - type: Software Copyright (in Chinese)
