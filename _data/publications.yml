@@ -125,18 +125,6 @@ main:
     image: ./assets/img/anual2023.png
     notes: 'Outstanding Paper Award, Oral Presentation, ID: 231289'
 
-  - type: Software Copyright (in Chinese)
-    title: 'Closed air Brayton cycle configuration optimization software considering diversified application scenarios (考虑应用场景多元化的闭式空气布雷顿循环构型优化软件)'
-    authors: Xiaoqu Han, Hexing Wang, <strong>Yanbing Dai</strong>, Yiran Qian, Weixiong Chen, Junjie Yan
-    conference_short: CCPC 2024
-    conference: China Copyright Protection Center. 2024.
-    #work_link: 
-    #pdf: 
-    #code: 
-    #bibtex: 
-    image: ./assets/img/software2024.png
-    notes: 'ID: 2024SR0071522'
-
   - type: Patent (in Chinese)
     title: 'A closed air Brayton cycle power generation system coupled with seawater desalination (一种耦合海水淡化的闭式空气布雷顿循环发电系统)'
     authors: Xiaoqu Han, <strong>Yanbing Dai</strong>, Yiming Zhang, Yuanyuan Zhou, Weixiong Chen, Jinshi Wang, Jiping Liu, Junjie Yan
@@ -160,3 +148,15 @@ main:
     #bibtex: 
     image: ./assets/img/patent2024.png
     notes: 'ID: ZL202310880459.4'
+    
+  - type: Software Copyright (in Chinese)
+    title: 'Closed air Brayton cycle configuration optimization software considering diversified application scenarios (考虑应用场景多元化的闭式空气布雷顿循环构型优化软件)'
+    authors: Xiaoqu Han, Hexing Wang, <strong>Yanbing Dai</strong>, Yiran Qian, Weixiong Chen, Junjie Yan
+    conference_short: CCPC 2024
+    conference: China Copyright Protection Center. 2024.
+    #work_link: 
+    #pdf: 
+    #code: 
+    #bibtex: 
+    image: ./assets/img/software2024.png
+    notes: 'ID: 2024SR0071522'
