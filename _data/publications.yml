@@ -138,6 +138,18 @@ main:
     notes: 'ID: 2024SR0071522'
 
   - type: Patent (in Chinese)
+    title: 'A closed air Brayton cycle power generation system coupled with seawater desalination (一种耦合海水淡化的闭式空气布雷顿循环发电系统)'
+    authors: Xiaoqu Han, <strong>Yanbing Dai</strong>, Yiming Zhang, Yuanyuan Zhou, Weixiong Chen, Jinshi Wang, Jiping Liu, Junjie Yan
+    conference_short: IPPH 2024
+    conference: Intellectual Property Publishing House Co.,Ltd. 2024.
+    #work_link: 
+    #pdf: 
+    #code: 
+    #bibtex: 
+    image: ./assets/img/patent2024_2.png
+    notes: 'Publication, ID: CN202410589966.7'
+    
+  - type: Patent (in Chinese)
     title: 'A multi-objective optimization and configuration screening method for closed air Brayton cycle (一种闭式空气布雷顿循环多目标优化和构型筛选方法)'
     authors: Xiaoqu Han, Hexing Wang, Yiran Qian, Weixiong Chen, Xin Tang, <strong>Yanbing Dai</strong>, Jiping Liu, Junjie Yan
     conference_short: IPPH 2024
