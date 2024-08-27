@@ -47,7 +47,7 @@ main:
     #code: 
     #bibtex: 
     image: ./assets/img/JET2024.png
-    notes:'Indexed by Ei Compendex'
+    notes: 'Indexed by Ei Compendex'
 
   - type: Conference Paper
     title: 'Part-load performance analysis of an intercooled and recuperative gas turbine system integrated with transcritical organic Rankine cycle'
