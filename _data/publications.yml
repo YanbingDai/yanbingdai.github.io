@@ -38,7 +38,7 @@ main:
     notes: '2021 IF=11.072'
 
   - type: Journal Article (in Chinese)
-    title: 'Comparative thermodynamic analysis and optimization design of open brayton cycle configurations (开式布雷顿循环构型对比及优化设计)'
+    title: 'Comparative thermodynamic analysis and optimization design of open Brayton cycle configurations (开式布雷顿循环构型对比及优化设计)'
     authors: Hexing Wang, Yiran Qian, <strong>Yanbing Dai</strong>, Xiaoqu Han, Weixiong Chen, Junjie Yan
     conference_short: J Eng Thermophys
     conference: Journal of Engineering Thermophysics, 2024.
