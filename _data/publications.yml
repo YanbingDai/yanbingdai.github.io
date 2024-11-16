@@ -74,6 +74,18 @@ main:
     #bibtex: 
     image: ./assets/img/cebe2023_1.png
     notes: 'Poster Presentation, ID: CEBE-A-0357'
+
+  - type: Conference Paper (in Chinese)
+    title: 'Multi-objective optimization and off-design performance analysis of air Brayton cycle configurations (空气布雷顿循环构型多目标优化及变工况性能研究)'
+    authors: <strong>Yanbing Dai</strong>, Xiaoqu Han, Yiming Zhang, Yi Yang, Weixiong Chen, Junjie Yan
+    conference_short: ETEUB 2024
+    conference: The Engineering Thermodynamics and Energy Utilization Branch of the Engineering Thermophysics Society, 2024.
+    #work_link: 
+    #pdf: 
+    #code: 
+    #bibtex: 
+    image: ./assets/img/anual2024.png
+    notes: 'Accepted, Poster Presentation, ID: 241043'
     
   - type: Conference Paper
     title: 'Thermodynamic and techno-economic analysis of solar-steam hybrid driven flue gas desulfurization wastewater zero liquid discharge system'
