@@ -84,7 +84,7 @@ main:
     #pdf: 
     #code: 
     #bibtex: 
-    image: ./assets/img/anual2024.png
+    image: ./assets/img/annual2024.png
     notes: 'Accepted, Poster Presentation, ID: 241043'
     
   - type: Conference Paper
@@ -134,7 +134,7 @@ main:
     #pdf: 
     #code: 
     #bibtex: 
-    image: ./assets/img/anual2023.png
+    image: ./assets/img/annual2023.png
     notes: 'Outstanding Paper Award, Oral Presentation, ID: 231289'
 
   - type: Patent (in Chinese)
