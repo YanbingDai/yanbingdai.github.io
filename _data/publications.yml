@@ -85,7 +85,7 @@ main:
     #code: 
     #bibtex: 
     image: ./assets/img/annual2024.png
-    notes: 'Accepted, Poster Presentation, ID: 241043'
+    notes: 'Poster Presentation, ID: 241043'
     
   - type: Conference Paper
     title: 'Thermodynamic and techno-economic analysis of solar-steam hybrid driven flue gas desulfurization wastewater zero liquid discharge system'
