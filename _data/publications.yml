@@ -10,7 +10,7 @@ main:
     #code: 
     #bibtex: 
     image: ./assets/img/energy2024.png
-    notes: '2023 IF=9'
+    notes: '2024 IF=9.4'
     
   - type: Journal Article
     title: 'Investigation on recirculated regenerative solid desiccant-assisted dehumidification system: Impact of system configurations and desiccant materials'
@@ -42,7 +42,7 @@ main:
     authors: Hexing Wang, Yiran Qian, <strong>Yanbing Dai</strong>, Xiaoqu Han, Weixiong Chen, Junjie Yan
     conference_short: J Eng Thermophys
     conference: Journal of Engineering Thermophysics, 2024.
-    work_link: http://jeth.magtechjournal.com/CN/Y2024/V45/I7/1890
+    work_link: https://jeth.magtechjournal.com/EN/Y2024/V45/I7/1890
     #pdf: https://yanbingdai.github.io/assets/files/JET_2024.pdf
     #code: 
     #bibtex: 
