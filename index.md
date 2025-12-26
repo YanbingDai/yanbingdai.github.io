@@ -6,7 +6,7 @@ layout: homepage
 
 Welcome to my website. My name is <strong>Yanbing Dai</strong> (<strong>代晏冰</strong>).
 
-I'm currently a first-year Ph.D. student in Mechanical Engineering at [University of Maryland](https://umd.edu/) (<b>UMD</b>), advised by Prof. [Vikrant C. Aute](https://ceee.umd.edu/clark/faculty/505/Vikrant-C-Aute). Before joining UMD, I earned an M.Eng. (2025) and a B.Eng. (2021) in Energy and Power Engineering from [Xi’an Jiaotong University](https://en.xjtu.edu.cn/).
+I'm currently a first-year Ph.D. student in Mechanical Engineering at [University of Maryland](https://umd.edu/) (<b>UMD</b>), advised by Prof. [Vikrant C. Aute](https://ceee.umd.edu/clark/faculty/505/Vikrant-C-Aute). Before joining UMD, I earned an M.Eng. (2025) and a B.Eng. (2021) in Energy and Power Engineering from [Xi’an Jiaotong University](https://en.xjtu.edu.cn/), where I worked with Prof. [Xiaoqu Han](https://www.researchgate.net/profile/Xiaoqu-Han).
 
 My research focuses on developing highly-efficient energy conversion systems and analyzing their energetic, exergetic, economic, and environmental performance. These investigations are vital for resolving today’s global energy crisis and achieving climate change mitigation objectives. I am excited to contribute to this rapidly evolving field.
 
