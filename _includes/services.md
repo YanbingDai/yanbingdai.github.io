@@ -8,7 +8,7 @@
     <a href="https://yanbingdai.github.io/assets/files/Certificate_JCLP_Recognised.pdf" id="certificate" target="_blank">Certificate</a>
   </li>
     <li>
-    <a href="https://www.sciencedirect.com/journal/energy" target="_blank"><autocolor>Energy (2024 IF=9.4)</autocolor></a>. 
+    <a href="https://www.sciencedirect.com/journal/energy" target="_blank"><autocolor>Energy (2025 IF=10.1)</autocolor></a>. 
     <a href="https://yanbingdai.github.io/assets/files/Certificate_EGY_Recognised.pdf" id="certificate" target="_blank">Certificate</a>
   </li>
 </ul>
